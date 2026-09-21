@@ -1,0 +1,13 @@
+# Compiled binaries (build them yourself with make, see README)
+c/server
+c/server_basic
+c/client
+cpp/server_cpp
+cpp/client_cpp
+dos_sim/dos_sim_local
+
+# Editor and OS clutter
+*.o
+*.out
+.vscode/
+.DS_Store
